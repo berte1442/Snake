@@ -1,0 +1,13 @@
+C:\Users\rchpi\source\repos\Snake\Snake\bin\Debug\netstandard2.0\Snake.deps.json
+C:\Users\rchpi\source\repos\Snake\Snake\bin\Debug\netstandard2.0\Snake.dll
+C:\Users\rchpi\source\repos\Snake\Snake\obj\Debug\netstandard2.0\Snake.csprojAssemblyReference.cache
+C:\Users\rchpi\source\repos\Snake\Snake\obj\Debug\netstandard2.0\Snake.AssemblyInfoInputs.cache
+C:\Users\rchpi\source\repos\Snake\Snake\obj\Debug\netstandard2.0\Snake.AssemblyInfo.cs
+C:\Users\rchpi\source\repos\Snake\Snake\obj\Debug\netstandard2.0\Pages\App.xaml.g.cs
+C:\Users\rchpi\source\repos\Snake\Snake\obj\Debug\netstandard2.0\Pages\MainPage.xaml.g.cs
+C:\Users\rchpi\source\repos\Snake\Snake\bin\Debug\netstandard2.0\ref\Snake.dll
+C:\Users\rchpi\source\repos\Snake\Snake\bin\Debug\netstandard2.0\Snake.pdb
+C:\Users\rchpi\source\repos\Snake\Snake\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\rchpi\source\repos\Snake\Snake\obj\Debug\netstandard2.0\Snake.dll
+C:\Users\rchpi\source\repos\Snake\Snake\obj\Debug\netstandard2.0\ref\Snake.dll
+C:\Users\rchpi\source\repos\Snake\Snake\obj\Debug\netstandard2.0\Snake.pdb

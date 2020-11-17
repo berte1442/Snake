@@ -1,0 +1,7 @@
+C:\Users\rchpi\source\repos\Snake\Snake.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\rchpi\source\repos\Snake\Snake.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\rchpi\source\repos\Snake\Snake.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\rchpi\source\repos\Snake\Snake.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\rchpi\source\repos\Snake\Snake.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\rchpi\source\repos\Snake\Snake.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\rchpi\source\repos\Snake\Snake.iOS\obj\iPhoneSimulator\Debug\Snake.iOS.csprojAssemblyReference.cache

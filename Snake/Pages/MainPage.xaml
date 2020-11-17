@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Snake.MainPage">
+
+    <StackLayout BackgroundColor="Green" >
+        <!-- Place new controls here -->
+      
+
+            <Label Text="Snake" 
+           HorizontalOptions="Center"
+                   FontSize="Large"/>
+        <Frame x:Name="Frame" 
+            BorderColor="Black"
+               BackgroundColor="Green"
+               Margin="20,20,20,20"
+               HeightRequest="300">
+            <StackLayout>
+                <Label x:Name="Snake"
+                   Text=">>>>>"
+                   FontAttributes="Bold"
+                   FontSize="Title"/>
+
+                <Label x:Name="SnakeFood"
+                   FontAttributes="Bold"
+                   FontSize="Title"/>
+            </StackLayout>
+        </Frame>
+        <Grid Padding="0,30,0,0">
+             <Button x:Name="Up"
+                    HorizontalOptions="Center"
+                    Text="▲"
+                    Clicked="Up_Clicked"
+                    Grid.Column="1"/>
+            <Button x:Name="Left"
+                    Text="◄"
+                    Clicked="Left_Clicked"
+                    Grid.Row="1"/>
+            <Button x:Name="Right"
+                    Text="►"
+                    Clicked="Right_Clicked"
+                    Grid.Row="1"
+                    Grid.Column="2"/>
+            <Button x:Name="Down"
+                    HorizontalOptions="Center"
+                    Text="▼"
+                    Clicked="Down_Clicked"
+                    Grid.Column="1"
+                    Grid.Row="2"/>
+        </Grid>
+
+        <Button x:Name="Start"
+                    Text="Start"
+                    BackgroundColor="Blue"
+                    TextColor="White"
+                    Clicked="Start_Clicked"/>
+    </StackLayout>
+
+</ContentPage>
